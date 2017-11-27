@@ -31,6 +31,8 @@
       <li><a class="subheader">Mantenedores</a></li>
       <li><a class="waves-effect" href="usuario"><i class="material-icons">account_circle</i>Usuario</a></li>
       <li><a class="waves-effect" href="perfil"><i class="material-icons">assignment_ind</i>Perfil</a></li>
+      <li><a class="waves-effect" href="producto"><i class="material-icons">archive</i>Producto</a></li>
+      <li><a class="waves-effect" href="variedad"><i class="material-icons">archive</i>Variedad</a></li>
     @else
       <li><a class="subheader">Cliente</a></li>
       <li><a href="uno"><i class="material-icons">cloud</i>Uno</a></li>

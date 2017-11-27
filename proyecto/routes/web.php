@@ -19,4 +19,6 @@ Route::get('/uno', function () {
 
 Route::resource('usuario','UsersController');
 Route::resource('perfil','PerfilController');
+Route::resource('producto','ProductoController');
+Route::resource('variedad','VariedadController');
 Auth::routes();
